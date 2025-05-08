@@ -1,0 +1,8 @@
+production:
+  adapter: postgresql
+  encoding: utf8
+  database: canvas_production
+  host: database-1.chokokyq8ms9.eu-north-1.rds.amazonaws.com
+  username: Postgres
+  password: hvmQUIRc0aAAFzxGIMLo
+  timeout: 5000
